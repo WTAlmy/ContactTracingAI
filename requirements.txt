@@ -1,0 +1,9 @@
+flake8
+fastapi
+uvicorn
+jinja2
+aiofiles
+werkzeug
+python-multipart
+redis==3.5.3
+celery==4.4.7
